@@ -14,7 +14,7 @@
 
 ## Lessons
 
-<!-- 1. Use `npx shadcn@latest add [component]` instead of `npx shadcn-ui@latest add [component]` when installing Shadcn UI components.
+1. Use `npx shadcn@latest add [component]` instead of `npx shadcn-ui@latest add [component]` when installing Shadcn UI components.
 2. In Next.js 14+, page props params must be typed as a Promise. Example:
    ```typescript
    type tParams = Promise<{ id: string }>
@@ -205,4 +205,4 @@
 - [ ] API documentation
 - [ ] User guide
 - [ ] Admin documentation
-- [ ] Deployment guide -->
+- [ ] Deployment guide
